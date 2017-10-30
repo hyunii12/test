@@ -10,5 +10,7 @@ public class Test {
 		 * 필요한 클래스들을 (스켈레톤)
 		 * 생성만 한 상태...가 적당
 		 */
+		
+		System.out.println("추가작업을 하였습니다!");
 	}
 }
