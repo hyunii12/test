@@ -18,5 +18,6 @@ public class Test {
 		
 		//이클립스에서
 		System.out.println("나도 작업을 했고,,,커밋을 안함...");
+		System.out.println("누가이코드를저장");
 	}
 }
