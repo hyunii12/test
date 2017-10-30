@@ -12,5 +12,8 @@ public class Test {
 		 */
 		
 		System.out.println("추가작업을 하였습니다!");
+		
+		// 원격저장소에코드를추가
+		System.out.println("skfjls slkdjflskjdlkj ");
 	}
 }
