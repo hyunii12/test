@@ -13,7 +13,10 @@ public class Test {
 		
 		System.out.println("추가작업을 하였습니다!");
 		
-		// 원격저장소에코드를추가
+		// 원격저장소에 코드를 추가
 		System.out.println("skfjls slkdjflskjdlkj ");
+		
+		//이클립스에서
+		System.out.println("나도 작업을 했고,,,커밋을 안함...");
 	}
 }
